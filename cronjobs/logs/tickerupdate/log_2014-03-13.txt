@@ -1,0 +1,4 @@
+2014-03-13 19:56:10 - INFO --> Running periodic tasks to update database values for GUI access
+2014-03-13 19:56:10 - INFO --> | Method                    |           Value |  Runtime | Status | Message                                                                          |
+2014-03-13 19:56:11 - INFO --> | Price Update              |        16.91609 |    1.129 | OK     | Updated latest RBC price from https://btc-e.com API                              |
+2014-03-13 19:56:11 - INFO --> | Uptime Robot              |             n/a |    0.000 | OK     | Updated Uptime Robot status from API                                             |

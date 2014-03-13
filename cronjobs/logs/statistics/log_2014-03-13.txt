@@ -1,0 +1,6 @@
+2014-03-13 19:56:11 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-13 19:56:11 - INFO --> | Method                     |  Runtime | Status |
+2014-03-13 19:56:11 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-13 19:56:11 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-13 19:56:11 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-13 19:56:11 - INFO --> | getTopContributors(shares) |    0.000 | OK     |

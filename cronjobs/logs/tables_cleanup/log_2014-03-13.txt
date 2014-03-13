@@ -1,0 +1,4 @@
+2014-03-13 19:56:11 - INFO --> | Process              |   Affected |  Runtime | Status | Message                                  |
+2014-03-13 19:56:11 - INFO --> | cleanupNotifications |          0 |    0.000 |     OK | No notifications deleted                 |
+2014-03-13 19:56:11 - INFO --> | cleanupTokens        |          0 |    0.001 |     OK | No tokens deleted                        |
+2014-03-13 19:56:11 - INFO --> | purgeArchive         |          0 |    0.001 |     OK | No shares deleted                        |

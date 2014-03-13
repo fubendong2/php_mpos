@@ -211,8 +211,8 @@ $config['reward'] = 50;
  *  Credit and Network confirmation settings
  *   https://github.com/MPOS/php-mpos/wiki/Config-Setup#wiki-confirmations
  */
-$config['confirmations'] = 120;
-$config['network_confirmations'] = 120;
+$config['confirmations'] = 50;
+$config['network_confirmations'] = 50;
 
 /**
  * PPS
